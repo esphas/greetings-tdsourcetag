@@ -1,0 +1,8 @@
+{
+  "name": "greetings-tdsourcetag",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "git@github.com:esphas/greetings-tdsourcetag.git",
+  "author": "Esphas <esphas@hotmail.com>",
+  "license": "MIT"
+}
